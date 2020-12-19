@@ -1,3 +1,5 @@
-### You Can Visit This E-Commerce Project On Heroku
+## E-Commerce Website Made With React
 
-[a link](http://crwn-market.herokuapp.com/)
+### You can see this project live from the link below:
+
+[CRWN Clothing on Heroku](http://crwn-market.herokuapp.com/)
