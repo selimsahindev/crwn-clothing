@@ -25,11 +25,11 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "npx --yes browserslist@latest --update-db && react-scripts build",
+    "build": "npx browserslist@latest --update-db && react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "predeploy" : "npm run build",
-    "deploy" : "gh-pages -d build"
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
