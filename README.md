@@ -1,5 +1,8 @@
-## E-Commerce Website Made With React
+## In-app Screenshots
 
-### You can see this project live from the link below:
-
-[CRWN Clothing on Heroku](http://crwn-market.herokuapp.com/)
+![Homepage](/screenshots/homepage.png)
+![Shop](/screenshots/shop-1.png)
+![Shop](/screenshots/shop-2.png)
+![Sing-In](/screenshots/sign-in.png)
+![Checkout](/screenshots/checkout.png)
+![Stripe Payment](/screenshots/payment.png)
